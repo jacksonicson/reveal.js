@@ -155,4 +155,5 @@ body {
  * SLIDE NUMBER
  *********************************************/
 .reveal .slide-number {
+  font-size: 20pt;
   color: #268bd2; }
