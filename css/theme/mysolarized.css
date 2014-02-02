@@ -66,6 +66,20 @@ body {
 	vertical-align: middle;
 }
   
+.reveal table {
+	border-collapse: collapse;
+	
+}
+ 
+.reveal table td {
+	padding: 3px;
+}
+  
+.reveal table th {
+	border-style:solid;
+	border-bottom-width: 3px;
+}
+  
 /*********************************************
  * LINKS
  *********************************************/
@@ -155,5 +169,5 @@ body {
  * SLIDE NUMBER
  *********************************************/
 .reveal .slide-number {
-  font-size: 20pt;
+font-size:20pt;
   color: #268bd2; }
